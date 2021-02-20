@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     card: {
         padding: 10,
         width: "80%",
-        backgroundColor: "#4CC9F0",
+        backgroundColor: "#8B0000",
         alignItems: "center",
         borderRadius: 10
     },
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
         width: "80%",
     },
     btn: {
-        backgroundColor: "#4895ef",
+        backgroundColor: "black",
         width: "100%",
         marginTop: 12,
         padding: 8,

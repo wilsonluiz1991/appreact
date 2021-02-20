@@ -3,7 +3,7 @@ const styles = StyleSheet.create({
     caixa: {
         height: "100%",
         width: "100%",
-        backgroundColor: '#670dbb',
+        backgroundColor: '#8B0000',
         justifyContent:"center",
         alignItems: "center",
         padding: 10,
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
         borderRadius: 4
     },
     btn: {
-        backgroundColor: "#4895ef",
+        backgroundColor: "black",
         width: "100%",
         marginTop: 12,
         padding: 8,
